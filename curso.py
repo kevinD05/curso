@@ -21,3 +21,4 @@ print(nombre, type(nombre))
 #tipo de dato booleano
 verdadero_falso = 4==4
 print(verdadero_falso, type(verdadero_falso))
+
