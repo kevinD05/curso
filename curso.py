@@ -22,3 +22,25 @@ print(nombre, type(nombre))
 verdadero_falso = 4==4
 print(verdadero_falso, type(verdadero_falso))
 
+#sentencia condicional compuesta
+num_uno = 5
+if num_uno == 5:
+    print('el numero es cinco.')
+
+else:
+    print('el numero no es cinco')
+
+print('fin.')
+
+#sentencia condiconal multiple
+num_uno = 1
+if num_uno == 1:
+    print("el numero es uno")
+
+elif num_uno == 2:
+    print("el numero es dos")
+
+else: 
+    print("el numero se desconoce")
+
+print("fin.")
