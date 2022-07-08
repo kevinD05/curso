@@ -44,3 +44,11 @@ else:
     print("el numero se desconoce")
 
 print("fin.")
+
+#operadores relacionales 
+#< menor que 5<4 
+#> mayor que 7>5
+#== Igual a 5==5
+#!= no igual a (diferente) 4!=5
+#<= menor que o igual a 6<=6
+#>= mayor o igual a 9>=5
