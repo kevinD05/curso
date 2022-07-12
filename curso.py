@@ -52,3 +52,10 @@ print("fin.")
 #!= no igual a (diferente) 4!=5
 #<= menor que o igual a 6<=6
 #>= mayor o igual a 9>=5
+
+#parametro end
+#ejemplo: print("esto es un", end= "-*/")
+#	 print("ejemplo")
+
+#parametro sep
+#print("1","2","3","4,"5", sep="-")
